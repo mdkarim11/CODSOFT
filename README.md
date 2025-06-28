@@ -5,6 +5,6 @@ I worked on some projects which I uploaded on GitHub
 
 1) Calculator :- I have made it using HTML, CSS and Javascript which is a real world using calculator 
 
-2) Landing page :- I have made this using html css and javascript 
+2) Landing page :- I have made this using html and css
 
 3) portfolio website:- I have created it using html css and javascript which is a responsive website, all the project skills are mentioned in it 
