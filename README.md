@@ -1,5 +1,6 @@
 🚀 CodSoft Internship Projects
 This repository contains the projects completed during my CodSoft Web Development Internship. These projects helped me strengthen my frontend development skills using HTML, CSS, and JavaScript.
+
 📌 Projects Included
 1️⃣ Calculator 🧮
 A simple and responsive calculator that performs basic arithmetic operations.
@@ -12,6 +13,8 @@ User-friendly design
 HTML
 CSS
 JavaScript
+
+
 2️⃣ Landing Page 🌐
 A modern and responsive landing page designed to showcase a product/service.
 ✨ Features:
@@ -23,6 +26,8 @@ Call-to-action sections
 HTML
 CSS
 3️⃣ Portfolio Website 👨‍💻
+
+
 A personal portfolio website to showcase my skills, projects, and contact details.
 ✨ Features:
 About Me section
