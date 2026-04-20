@@ -1,10 +1,36 @@
-# CODSOFT
-I really enjoyed doing internship in Codsoft. I got to learn a lot which will help me a lot in future 
-
-I worked on some projects which I uploaded on GitHub 
-
-1) Calculator :- I have made it using HTML, CSS and Javascript which is a real world using calculator 
-
-2) Landing page :- I have made this using html and css
-
-3) portfolio website:- I have created it using html css and javascript which is a responsive website, all the project skills are mentioned in it 
+🚀 CodSoft Internship Projects
+This repository contains the projects completed during my CodSoft Web Development Internship. These projects helped me strengthen my frontend development skills using HTML, CSS, and JavaScript.
+📌 Projects Included
+1️⃣ Calculator 🧮
+A simple and responsive calculator that performs basic arithmetic operations.
+✨ Features:
+Addition, Subtraction, Multiplication, Division
+Clear & Delete functionality
+Responsive UI
+User-friendly design
+🛠️ Tech Stack:
+HTML
+CSS
+JavaScript
+2️⃣ Landing Page 🌐
+A modern and responsive landing page designed to showcase a product/service.
+✨ Features:
+Attractive UI design
+Responsive layout (Mobile-friendly)
+Navigation bar
+Call-to-action sections
+🛠️ Tech Stack:
+HTML
+CSS
+3️⃣ Portfolio Website 👨‍💻
+A personal portfolio website to showcase my skills, projects, and contact details.
+✨ Features:
+About Me section
+Skills showcase
+Projects section
+Contact form
+Fully responsive design
+🛠️ Tech Stack:
+HTML
+CSS
+JavaScript
